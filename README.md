@@ -1,5 +1,1 @@
-Крипто конвертер з live курсом через АРІ(CoinGecko). 
-Задачі:
-    - Історія конвертацій
-    - Збереження в localStorage
-    - Додавати криптовалюти
+Crypto converter with live exchange rate via API 
